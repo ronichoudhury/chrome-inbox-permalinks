@@ -13,6 +13,7 @@
       ],
       "js": [
         "inboxsdk.js",
+        "d3.js",
         "content.js"
       ],
       "run_at": "document_end"
